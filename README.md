@@ -1,0 +1,2 @@
+# petit-git
+yes
